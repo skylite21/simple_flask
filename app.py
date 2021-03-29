@@ -6,7 +6,7 @@ app = Flask(__name__)
 def index():
     # get_data()
     # a flask alapértelmezetten a templates mappában keresi a html
-    return 'hello'
+    return 'hello from flask!'
 
 
 # ha a futtatott file, az éppen ez a file

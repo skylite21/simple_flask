@@ -1,1 +1,9 @@
 venv
+.cache
+.vscode
+.vscode-server
+__pycache__
+.wget-hsts
+.bash_history
+.gitconfig
+.ssh
